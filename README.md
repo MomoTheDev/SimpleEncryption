@@ -1,5 +1,5 @@
 # SimpleEncryption
-A simple encryption and decryption program with it's own algorithm, written in Java
+A simple encryption and decryption library with it's own algorithm, written in Java
 
 # Example
 In order to create an Instance of the `SimpleEncryption` class, you'd have to use the static method `openInstance()`
